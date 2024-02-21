@@ -30,4 +30,6 @@ owned task**.
     - [x] Set pull request rules repository (Carlos A. Melis)
     - [x] Add every body to the repository (Carlos A. Melis)
     - [x] Basic schaffolding (Carlos A. Melis)
-    - [ ] Test everything works (Carlos A. Melis)
+    - [x] Test everything works (Carlos A. Melis)
+    - [ ] Extend documentation
+    - [ ] Improve README.md file
