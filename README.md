@@ -6,17 +6,15 @@ Lopako será un asistente robot centralizado en la interacción para la estimula
 
 ## Tabla de contenido
 
-- [Información del proyecto]()
-- [DEMO]()
-- [Requisitos]()
-- [Install]()
-- [Componentes]()
-- [Hardware Scheme]()
-- [Arquitectura software]()
-- [TO DO]()
-- [Implementaciones adicionales]()
-- [Licencia]()
-- [Referencias]()
+- [Información del proyecto](#información-del-proyecto)
+- [Componentes](#componentes)
+- [Hardware Scheme](#hardware-scheme)
+- [Arquitectura software](#arquitectura-software)
+- [Configuración del software](#configuración-del-software)
+- [Support](#support)
+- [Fotos](#fotos)
+- [Video](#video)
+- [Autors](#autors)
 
 ## Información del proyecto
 
@@ -34,7 +32,6 @@ Otro punto que queremos es que todo el software tenga que ser de código abierto
 | [Speaker](https://www.amazon.es/CQRobot-Speaker-Interface-Electronic-Projects/dp/B0822XCPT8/ref=sr_1_2?adgrpid=1297424156924450&dib=eyJ2IjoiMSJ9.H5SdoB4-Kfs01ojZN_EBc6_q5KgoCNZxDUmnvyWmz5WNqUFTan55N-u82dQoEIwZwePJHh0Op2y5WMayv3r6vcb7DcpbxvwslDQeJmt6lQbhpASBRq_aX-0atLmXwCZSLhBeRD_KLM7dHjJv5IqZvKOEef_6fe134uHwWg1tbx-nFeCrURGbtU3HIJfhIgyAYDPSf6R7AUM_4VQqSFo_sfo_ZaTDFRV7CWy6KiPpQ885fq5L9S8nowy_MvM3bKyi2zxmszNYxk5PH3GWfL4p-66dVq_x4hxmDM5ZtPZnp1c.Fea56L0PvfKRoTzEbHB9dzmD2dKF7J8yJBbZURD6I_k&dib_tag=se&hvadid=81089098768483&hvbmt=bp&hvdev=c&hvlocphy=3173&hvnetw=o&hvqmt=p&hvtargid=kwd-81089247644590%3Aloc-170&hydadcr=13813_1871987&keywords=speaker%2Braspberry%2Bpi&qid=1709759252&sr=8-2&th=1) | [Disipadores](https://tienda.bricogeek.com/accesorios-raspberry-pi/1087-pack-disipadores-para-raspberry-pi-3b.html) | [Servo](https://tienda.bricogeek.com/servomotores/1319-micro-servo-feetech-07kg-fs0403-fb-con-feedback.html)
 | ![Speaker](https://github.com/CarlosMelis/RLP-2324/assets/127751829/ca82f3d9-319c-4d87-828c-559b8af7a980) | ![Disipadores](https://github.com/CarlosMelis/RLP-2324/assets/127751829/916dd0d5-8f6a-4553-b947-21cc34385ad7) | ![Servo](https://github.com/CarlosMelis/RLP-2324/assets/127751829/5d6f7b40-8681-4eea-a047-45419fd561d3)
 
-
 ## Hardware Scheme
 
 ![Hardware Scheme](https://github.com/CarlosMelis/RLP-2324/assets/127751829/b9f6236d-21c6-4dde-bfb3-96e3a156b473)
@@ -43,14 +40,30 @@ Otro punto que queremos es que todo el software tenga que ser de código abierto
 
 ![Arquitectura software](https://github.com/CarlosMelis/RLP-2324/assets/127751829/318bdf87-2a17-4267-99f4-93ab75b851d6)
 
+## Configuración del software
 
+1. Clonar el repositorio:
+```console
+foo$bar:~$ git clone https://github.com/CarlosMelis/RLP-2324.git
+```
+
+2. Instalar requisitos:
+```
+foo$bar:~$ pip install -r src/requirements.txt
+```
+
+3. Ejecutar main.py
+
+## Fotos
+
+## Video
 
 ## Support
 
 - [Escola d'Enginyeria - UAB Barcelona](https://www.uab.cat/enginyeria/)
 - [UAB Open Labs](https://www.uab.cat/open-labs/)
 
-## Authors
+## Autors
 
 - Javier Comes
 - David Bonilla
