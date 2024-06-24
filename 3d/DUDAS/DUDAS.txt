@@ -1,0 +1,17 @@
+Hola, quiero mostrarte lo que he ido haciendo y las dudas que me quedan por resolver.
+
+1. He creado esta unión y tengo la idea de implementarla tanto para la cabeza como para el cuerpo. Como lo ves? Tienes imagenes donde se ve la union que se basa en un palito que se inserta en la otra parte. El palito hace 3x5 mm. (IMAGEN: UNION CABEZA)
+
+2. Quiero implementar ese mismo tipo de unión en el cuerpo. ves bien el tipo de union? hago el palo mas grande? LAS UNIONES HARÍA LOS AGUEROS EN AMBAS PARTES Y DESPUES LE METERÍA UN UNICO TUBILLON PARA UNIRLOS.. ES DECIR EN LAS PARTES IRIAN LOS AGUJEROS, Y MEDIANTE UNA TERCERA PIEZA HACER LA UNION
+
+3. Los cortes de cabeza y cuerpo son correctos para optimizar la impresion? (IMAGEN: SEPARACION CABEZA / SEPARACION CUERPO) DIRIA QUE ESTÁN BIEN
+
+4. He creado una parte solida encima de la pantalla (IMAGEN: BASE UNION SERVO). Ves bien dejarlo asi, imprimirlo y hacerle una base atornillada a posteriori o intento hacerle ya la base en 3D (el problema es que no tengo enlace de referencia con las medidas y lo unico que me queda es hacer yo mismo las medidas con el pie de rey pero el servo me lo daran el lunes y nse si me da tiempo a crear su base para el miercoles). No he sabido quitarle la parte que sobra respecto a la pared de la pantalla. ASÍ LO PUEDES DEJAR POR EL MOMENTO
+
+5. Los agujeros para el audio del altavoz y la union del robot con la base de madera los hago en 3D o taladro? (IMAGEN: PONGO AGUJERO UNION BASE / PONGO AGUJEROS ALTAVOZ) Lo digo por que quiza los agujeros del altavoz son muy pequeños para imprimirse bien y el agujero de la base no se de qué mètrica hacerlo.  PUEDES MIRAR DE DEJARLO A MODO DE REFERENCIA Y POSTERIORMENTE TALADRAR
+
+6. Quiero hacer una extrusion de el logotipo con el nombre del robot. Estoy terminando ese logo. Me recomiendas que haga una extrusion de unos milimetros en el sitio subrayado (no se si podrà quedar con mucho detalle) o mejor hago grabado con laser en la base de madera que le hagamos? (IMAGEN: LOGOTIPO). EL LOGOTIPO IMPRESO CON 0.4MM YA RESALTA. AUN ASI TAMBIEN LO HARÍA EN LA MADERA
+
+7. La placa para atornillar las pantallitas de los ojos la hago mejor en madera o plastico? (es plana) (IMAGEN: PANTALLAS OJOS)
+LA PODEMOS CORTAR A LÀSER, Y BUSCAR EL MATERIAL MÁS ADECUADO EN EL LAB.
+Tienes las ultimas versiones de los modelos 3D en PLA - 3D. Gracias!
