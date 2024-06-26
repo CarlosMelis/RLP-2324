@@ -1,0 +1,7 @@
+vosk
+pyaudio
+pyttsx3
+datetime
+numpy
+word2number_es
+playsound
