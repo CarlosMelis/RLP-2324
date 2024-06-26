@@ -33,9 +33,9 @@ Caracteristicas:
 | :-------- | :------- | :------------------------- |
 | ![pantalla](https://http2.mlstatic.com/D_NQ_NP_806767-MEC47936666203_102021-O.webp) | ![alimentador](https://github.com/CarlosMelis/RLP-2324/assets/127751829/17632609-ea4e-482d-9030-361675bf979f) | ![cámara](https://m.media-amazon.com/images/I/41JJwg1RrTL.jpg)
 | [Raspberry 3B+](https://tienda.bricogeek.com/placas-raspberry-pi/1089-raspberry-pi-3-b-plus.html) | [Pantalla ojos](https://www.amazon.es/AZDelivery-Pantalla-Display-pulgadas-Raspberry/dp/B01L9GC470/ref=sr_1_1?adgrpid=1306220248924282&dib=eyJ2IjoiMSJ9.v19U4AeB3MGCVIraHo-zd81DMAe-f4VgDWpHStVOH89BgQrDf4bhme6maPJvIGCNeCG1GaoJRbVYpyr5GfUfSvEJAf_WR2JKSemZ3i_LQRv3x_pJA4p7EH0kjK0-qPyaWn1fxuU7NJLpdnkicWjlXdU6E5xJAyfjzq5u4bpGPINAhWuAoIk13kKyKhZzJOCSlWas7FcO-nPqc3Yfy17P50oCyBC0CAouNGKvRFtMYN9dc_ekiMh-b-4QLwzoBLwQyNDfwQ-brxwQ1Ejm-kNgs3dICtYXZUUrRIv-40JDt-Q.Ahentau47hHdQZ_CYS5MuWGOoLolvxRVTBVbiLivxtk&dib_tag=se&hvadid=81638854262704&hvbmt=bp&hvdev=c&hvlocphy=3173&hvnetw=o&hvqmt=p&hvtargid=kwd-81639002330313%3Aloc-170&hydadcr=19344_1839968&keywords=pantalla+oled+raspberry&qid=1709760552&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&smid=A1X7QLRQH87QA3)     | [Servo](https://tienda.bricogeek.com/servomotores/1319-micro-servo-feetech-07kg-fs0403-fb-con-feedback.html)
-| ![Raspberry](https://github.com/CarlosMelis/RLP-2324/assets/127751829/2c597496-b605-467a-9c1f-c71f5c0bff2e)| ![Pantalla_ojos](https://github.com/CarlosMelis/RLP-2324/assets/127751829/3d305659-71da-419a-b451-7ba04957436e) | ![Servo](https://www.melopero.com/wp-content/uploads/2019/11/09065-01a.jpg)
-| [Speaker](https://www.amazon.es/CQRobot-Speaker-Interface-Electronic-Projects/dp/B0822XCPT8/ref=sr_1_2?adgrpid=1297424156924450&dib=eyJ2IjoiMSJ9.H5SdoB4-Kfs01ojZN_EBc6_q5KgoCNZxDUmnvyWmz5WNqUFTan55N-u82dQoEIwZwePJHh0Op2y5WMayv3r6vcb7DcpbxvwslDQeJmt6lQbhpASBRq_aX-0atLmXwCZSLhBeRD_KLM7dHjJv5IqZvKOEef_6fe134uHwWg1tbx-nFeCrURGbtU3HIJfhIgyAYDPSf6R7AUM_4VQqSFo_sfo_ZaTDFRV7CWy6KiPpQ885fq5L9S8nowy_MvM3bKyi2zxmszNYxk5PH3GWfL4p-66dVq_x4hxmDM5ZtPZnp1c.Fea56L0PvfKRoTzEbHB9dzmD2dKF7J8yJBbZURD6I_k&dib_tag=se&hvadid=81089098768483&hvbmt=bp&hvdev=c&hvlocphy=3173&hvnetw=o&hvqmt=p&hvtargid=kwd-81089247644590%3Aloc-170&hydadcr=13813_1871987&keywords=speaker%2Braspberry%2Bpi&qid=1709759252&sr=8-2&th=1) | 
-| ![Speaker](https://github.com/CarlosMelis/RLP-2324/assets/127751829/ca82f3d9-319c-4d87-828c-559b8af7a980) | 
+| ![Raspberry](https://github.com/CarlosMelis/RLP-2324/assets/127751829/2c597496-b605-467a-9c1f-c71f5c0bff2e)| ![Pantalla_ojos](https://ae01.alicdn.com/kf/Sae16499d65714ff984eb4f371cc12b0dz.jpg_640x640Q90.jpg_.webp) | ![Servo](https://www.melopero.com/wp-content/uploads/2019/11/09065-01a.jpg)
+| [Speaker](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjVldTS6PiGAxVIQkECHULvA8UYABAGGgJ3cw&gclid=CjwKCAjw-O6zBhASEiwAOHeGxfMZYxY7_doT9o94ubMa0dyn6cSsn6MeCFVIefZ3dusTT5VAMEOrkxoCD_gQAvD_BwE&ohost=www.google.com&cid=CAESVuD2sgzpPO6jDoSzQnzCt7cmS3UVuGRocv2gUJm8DUieSyVRfxu8jw74uzzoRP_c4EIGtmewBOnpixE6Rpee3QWbKV73iqR2kyvbJ7OL_RtpwNwvQFYB&sig=AOD64_2M2JmAhYuQcmkrdhWztXKSCPwKLg&ctype=5&q=&ved=2ahUKEwjArM7S6PiGAxV8SPEDHdRxCWgQ9aACKAB6BAgEEBA&adurl=) | 
+| ![Speaker](https://cdn.imprentaonline.net/media/catalog/product/cache/3d885e009f022573916c6c91b73e4325/6/0/6086-001-P_1.webp) | 
 
 ## Documentación
 Este README solo muestra una parte esencial de este proyecto.
@@ -57,11 +57,13 @@ foo$bar:~$ pip install -r src/requirements.txt
 
 ## Hardware Scheme
 
-![Hardware Scheme](https://github.com/CarlosMelis/RLP-2324/assets/127751829/b9f6236d-21c6-4dde-bfb3-96e3a156b473)
+![Hardware](https://github.com/CarlosMelis/RLP-2324/assets/127751829/7713172f-58f7-409a-bfeb-0575ed978593)
+
 
 ## Arquitectura software
 
-![Arquitectura software](https://github.com/CarlosMelis/RLP-2324/assets/127751829/318bdf87-2a17-4267-99f4-93ab75b851d6)
+![software](https://github.com/CarlosMelis/RLP-2324/assets/127751829/38d6dd26-ab03-44ba-a06b-1e307ba38100)
+
 
 ## Parte fisica
 El robot cuenta con un cuerpo físico impreso en una impresora 3D. El exterior es un amigable robot blanco con una pantalla en el centro, para poder hablar e interactuar con LOPAKO; un agujero donde la cámara analiza el entorno y las personas; unos agujeros para que pase el sonido; una cabeza redonda y grande con unas pantallas como ojos, blancos y movimiento para dar más vida al robot.
@@ -80,8 +82,6 @@ La parte de software se ha creado con Python, un lenguaje de alto nivel de progr
 El robot cuenta con la funcionalidad de escuchar y responder. Se puede ir moviéndose por la interfaz mediante el habla o mediante el toque de un dedo gracias a la funcionalidad touchpad de la pantalla. 
 
 Para facilitar el entretenimiento de la persona, se han aplicado varios juegos interactivos de atención focal, búsqueda visual y concentración para estimular el cerebro, además de, un video que recuerda los mejores momentos de dicha persona. Cabe recalcar que el video se procesa dependiendo de la persona registrada al momento de encenderse el robot.
-
-https://github.com/CarlosMelis/RLP-2324/assets/127751829/e1c67d22-a89b-4976-bef5-81a08cf6fdc8
 
 La funcionalidad de la cámara es capturar el rostro de la persona y así entrenar un modelo de reconocimiento facial para poder reproducir los diferentes videos que este robot contiene en su base de datos.
 
