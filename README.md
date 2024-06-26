@@ -53,7 +53,7 @@ foo$bar:~$ git clone https://github.com/CarlosMelis/RLP-2324.git
 foo$bar:~$ pip install -r src/requirements.txt
 ```
 
-3. Ejecutar main.py
+3. Ejecutar asistente_raspiWindows.py
 
 ## Hardware Scheme
 
